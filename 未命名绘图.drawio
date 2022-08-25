@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T06:32:07.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="1-gz5ZBUqo3wStCx1ZOJ" type="github"><diagram id="v30iYMvm8xrNEb_mb6ZF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:46:57.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VgpzZoZnIpw-kIESsT9S" version="20.2.7" type="github">
+  <diagram id="v30iYMvm8xrNEb_mb6ZF" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2QR0SAqKI1c6O-RM5qm-3" target="Y2QR0SAqKI1c6O-RM5qm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-3" value="用户登录易赢App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2QR0SAqKI1c6O-RM5qm-4" target="Y2QR0SAqKI1c6O-RM5qm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-4" value="点击查看任意一支股票查看行情" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2QR0SAqKI1c6O-RM5qm-6" target="Y2QR0SAqKI1c6O-RM5qm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-6" value="是否登录手机号" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="280" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2QR0SAqKI1c6O-RM5qm-15" value="展示套餐领取入口" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
